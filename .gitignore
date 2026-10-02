@@ -1,0 +1,8 @@
+.env
+.venv/
+__pycache__/
+
+# ExifTool для Windows, если положить его рядом с ботом
+exiftool.exe
+exiftool(-k).exe
+exiftool_files/
